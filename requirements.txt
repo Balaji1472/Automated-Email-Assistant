@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+streamlit
+requests
+google-generativeai
+chromadb-client
+python-dotenv

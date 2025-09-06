@@ -1,0 +1,29 @@
+Q: How do I reset my password?
+A: To reset your password, please visit our login page and click on "Forgot Password". Enter your email address and we'll send you a password reset link. The link will expire in 24 hours for security reasons. If you don't receive the email, please check your spam folder.
+
+Q: What are your support hours?
+A: Our customer support team is available Monday through Friday from 9:00 AM to 6:00 PM EST. We also offer limited weekend support on Saturdays from 10:00 AM to 2:00 PM EST. For urgent technical issues, please call our emergency hotline which is available 24/7.
+
+Q: How do I cancel my subscription?
+A: You can cancel your subscription at any time by logging into your account and going to the "Billing" section. Click on "Manage Subscription" and then "Cancel Subscription". Your account will remain active until the end of your current billing period.
+
+Q: What payment methods do you accept?
+A: We accept all major credit cards (Visa, MasterCard, American Express), PayPal, and bank transfers for annual subscriptions. All payments are processed securely through our encrypted payment system.
+
+Q: How do I update my billing information?
+A: To update your billing information, log into your account and navigate to the "Billing" section. Click on "Payment Methods" to add, remove, or edit your payment information. Changes will take effect immediately.
+
+Q: I can't access my account, what should I do?
+A: If you're having trouble accessing your account, first try resetting your password. If that doesn't work, please contact our support team with your email address and we'll help you regain access. For security reasons, we may ask you to verify your identity.
+
+Q: How do I contact technical support?
+A: You can contact technical support through several channels: email us at support@company.com, use the live chat feature on our website, or call our support hotline. For faster resolution, please include your account details and a description of the issue.
+
+Q: What should I do if I find a bug?
+A: If you discover a bug, please report it to our technical team by emailing bugs@company.com. Include detailed steps to reproduce the issue, screenshots if applicable, and information about your browser and operating system. We appreciate your help in improving our service.
+
+Q: How do I upgrade my plan?
+A: To upgrade your plan, log into your account and go to the "Subscription" section. Select the plan you'd like to upgrade to and confirm the change. The upgrade will take effect immediately and you'll be charged the prorated amount for the current billing period.
+
+Q: Can I get a refund?
+A: We offer a 30-day money-back guarantee for all new subscriptions. If you're not satisfied with our service within the first 30 days, contact our support team for a full refund. Refunds for longer subscriptions are handled on a case-by-case basis.
