@@ -120,6 +120,5 @@ streamlit run frontend.py
 
 Your web browser should automatically open with the application.
 
----
-
-✅ You are now ready to use the **AI Communication Assistant**!
+By 
+Balaji V
